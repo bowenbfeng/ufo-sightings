@@ -18,7 +18,7 @@ To apply the filter, all that need to be done is to enter the information in the
 - Country
 - Shape
 
-Below shows the filtered after the filter as an example. 
+Below shows the filtered data based on the state "tx" as an example. 
 
 ![](/Resources/filter.png)
 
