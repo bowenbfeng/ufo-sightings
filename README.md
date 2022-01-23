@@ -8,7 +8,7 @@ The purpose of this project is to build a webpage that contains a dynamic table 
 
 Below shows the initial webpage. 
 
-![/Resources/main.png]()
+![](/Resources/main.png)
 
 To apply the filter, all that need to be done is to enter the information in the boxes on the left. The filter can be applied towards the following five criteria. 
 
@@ -20,7 +20,7 @@ To apply the filter, all that need to be done is to enter the information in the
 
 Below shows the filtered after the filter as an example. 
 
-![/Resources/filter.png]()
+![](/Resources/filter.png)
 
 ## Summary
 
